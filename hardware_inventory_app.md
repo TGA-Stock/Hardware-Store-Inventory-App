@@ -244,10 +244,20 @@ The **Tools_Input** page should look like the following image.
 
 ### 4.4 Creating a microflow  
 1. In the **App Explorer**, double-click on the **Success_Microflow** under **MyFirstField**.
+
+<div style="border: 1px solid black; padding: 10px; display: inline-block; width: fit-content;">
+  <img src="https://github.com/TGA-Stock/Hardware-Store-Inventory-App/blob/main/Images/4.5i%20Microflow1.png" alt="Example Image" width="300">
+</div>
+
 2. Beside the green start icon, drag and drop a yellow **Parameter** element, found in the **Toolbox**. Then, in subsequent order, drag and drop the following elements onto the **Microflow** line:
    a. **Commit object** element
    b. **Close page** element
    c. **Information** element
+
+<div style="border: 1px solid black; padding: 10px; display: inline-block; width: fit-content;">
+  <img src="https://github.com/TGA-Stock/Hardware-Store-Inventory-App/blob/main/Images/4.5ii%20Microflow2.png" alt="Example Image" width="300">
+</div>
+
 3. Double-click on the yellow **Parameter** element.
 4. Under **Entity**, select **Tools**.
 5. Double click on the **Commit Object** element.
