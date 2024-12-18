@@ -79,6 +79,11 @@ Open the Mendix local application and act on the following instructions.
 
 4. Drag an **Entity** element into the editor.
 5. Double-click on the entity element, and name your entity *Tools*.
+
+<div style="border: 1px solid black; padding: 10px; display: inline-block; width: fit-content;">
+  <img src="https://github.com/TGA-Stock/Hardware-Store-Inventory-App/blob/main/Images/4.1iii%20Entity%20tool.png?raw=true" alt="Example Image" width="300">
+</div>
+
 6. Select the **Attributes** tab, and add five **New** attributes:  
    - **Name** - Type: String  
    - **Model** - Type: String  
