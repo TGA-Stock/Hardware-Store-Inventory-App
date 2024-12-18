@@ -26,30 +26,30 @@ The detailed requirements for the new application include:
 Before starting, make sure you have completed the following prerequisites:  
 
 - Create your free [Mendix account](https://signup.mendix.com/index.html)
-- [Download](https://marketplace.mendix.com/link/studiopro) and [install](https://docs.mendix.com/refguide/install/) Mendix Studio Pro  
-   - System requirements  
+- [Download](https://marketplace.mendix.com/link/studiopro) and [Install](https://docs.mendix.com/refguide/install/) Mendix Studio Pro  
+   - [System requirements](https://docs.mendix.com/refguide/system-requirements/)  
 
 ### Additional documents you might find helpful  
-- Creating a new App  
-- Opening the App  
+- [Creating a new App](https://docs.mendix.com/refguide/new-app/)  
+- [Opening the App](https://docs.mendix.com/refguide/open-app-dialog/)  
 
-If you are having troubles, please refer to the **Troubleshooting** section of this document, or reach out to the Mendix support team [here](#).  
+If you are having troubles, please refer to the **Troubleshooting** section of this [document](https://docs.mendix.com/refguide/install/), or reach out to the Mendix support team [here](https://support.mendix.com/hc/en-us) 
 
-> **Note:** This document is a stepwise guide that requires you to have a basic understanding of the Mendix Studio Pro platform. If necessary, review the Mendix Academy and Mendix Documentation to find content that will support your understanding of the Mendix tool.  
+This document is a stepwise guide that requires you to have a basic understanding of the Mendix Studio Pro platform. If necessary, review the [Mendix Academy](https://academy.mendix.com/link/home) and [Mendix Documentation[(https://docs.mendix.com/) to find content that will support your understanding of the Mendix tool.  
 
 ---
 
 ## 3 Building a stock inventory application  
 
 These are the steps you will take to create your application:
-- Create and configure a domain model (Data Structure).
+- Create and configure a [domain model](https://docs.mendix.com/refguide/domain-model/) (Data Structure).
    - You will use a domain model entity with attributes that will form the backbone of your application.
 - Create a Home Page (The front page of the application).
-   - Here you will add an image, text and action button that will serve as your front page.
-- Create, develop and deploy two additional pages:
+   - Here you will add an image, text and [action button](https://docs.mendix.com/refguide/button-widgets/) that will serve as your front page.
+- Create, develop and deploy two additional [pages](https://docs.mendix.com/refguide/pages/):
    - A web page for the visualization and management of stock.
    - A pop-up page for stock updates.
-- Create and deploy a microflow to express a simple logic process inside your application that presents the completion message “Tool saved successfully”.
+- Create and deploy a [microflow](https://docs.mendix.com/refguide/microflows/) to express a simple logic process inside your application that presents the completion message “Tool saved successfully”.
    - Here you will build a short logic flowchart that will link to your data structure and some actions in your application to provide that complete feel to the end product.
 - Add German and Dutch versions to your application.
 - Change some simple style elements.
@@ -59,7 +59,7 @@ These are the steps you will take to create your application:
 ---
 
 ## 4 Procedure  
-To create the application, familiarity of the Mendix Studio Pro platform is useful. Look to this Explore document to help you orientation around the application and basic tools.
+To create the application, familiarity of the Mendix Studio Pro platform is useful. Look to this [Explore document](https://academy.mendix.com/link/modules/80/lectures/519/3.2-Explore-Mendix-Studio-Pro) to help you orientation around the application and basic tools.
 
 Open the Mendix local application and act on the following instructions.
 
