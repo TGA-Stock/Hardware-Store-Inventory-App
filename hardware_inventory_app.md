@@ -236,6 +236,10 @@ The coding behind the Edit button should now automatically populate.
 
 The **Tools_Input** page should look like the following image.
 
+<div style="border: 1px solid black; padding: 10px; display: inline-block; width: fit-content;">
+  <img src="https://github.com/TGA-Stock/Hardware-Store-Inventory-App/blob/main/Images/Tools%20Input1.png" alt="Example Image" width="300">
+</div>
+
 ---
 
 ### 4.4 Creating a microflow  
