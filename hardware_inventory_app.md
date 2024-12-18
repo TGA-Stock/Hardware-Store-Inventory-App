@@ -66,16 +66,21 @@ Open the Mendix local application and act on the following instructions.
 ### 4.1 Creating and configuring a domain model  
 1. Open the **App Explorer**, located at the top of the left panel.
 2. Click on **MyfirstModule** and then **Domain model**.
-3. Click on the **Toolbox**, located at the top of right panel of the screen.
-4. Drag an **Entity** element into the editor.
-5. Double-click on the entity element, and name your entity *Tools*.
-6. Select the **Attributes** tab, and add five **New** attributes:  
+
+<div style="border: 1px solid black; padding: 10px; display: inline-block;">
+  <img src="4.1iApp Explorer.png" alt="Example Image" width="300">
+</div>
+
+4. Click on the **Toolbox**, located at the top of right panel of the screen.
+5. Drag an **Entity** element into the editor.
+6. Double-click on the entity element, and name your entity *Tools*.
+7. Select the **Attributes** tab, and add five **New** attributes:  
    - **Name** - Type: String  
    - **Model** - Type: String  
    - **Quantity** - Type: Long  
    - **Depo** - Type: String  
    - **Code** - Type: String  
-7. Click “OK”. 
+8. Click “OK”. 
 
 ---
 
