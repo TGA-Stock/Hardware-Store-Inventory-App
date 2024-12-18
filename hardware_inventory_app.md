@@ -76,9 +76,8 @@ Open the Mendix local application and act on the following instructions.
 </div>
 
 <div style="border: 5px solid black; padding: 10px; display: inline-block; width: fit-content;">
-  <img src="https://github.com/TGA-Stock/Hardware-Store-Inventory-App/blob/main/Images/4.1i%20App%20Explorer.png" alt="Example Image" style="max-width: 100%; display: block; height: auto;">
+  <img src="https://raw.githubusercontent.com/TGA-Stock/Hardware-Store-Inventory-App/main/Images/4.1i%20App%20Explorer.png" alt="Example Image" style="max-width: 100%; display: block; height: auto;">
 </div>
-
 
 4. Click on the **Toolbox**, located at the top of right panel of the screen.
 5. Drag an **Entity** element into the editor.
