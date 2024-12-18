@@ -123,16 +123,34 @@ Open the Mendix local application and act on the following instructions.
 #### 4.2.2 Adding text and an action button to your home page  
 1. Click **Widgets** in the **Toolbox**.
 2. Drag into the editor the structure element **Layout Grid** and situate it beneath the Image.
+
+<div style="border: 1px solid black; padding: 10px; display: inline-block; width: fit-content;">
+  <img src="https://github.com/TGA-Stock/Hardware-Store-Inventory-App/blob/main/Images/4.2iv%20Layout%20grid.png" alt="Example Image" width="300">
+</div>
+
 3. A structure option will appear, select the **4,4,4** option.
+
+<div style="border: 1px solid black; padding: 10px; display: inline-block; width: fit-content;">
+  <img src="https://github.com/TGA-Stock/Hardware-Store-Inventory-App/blob/main/Images/4.2v%20Layout%20grid2.png" alt="Example Image" width="300">
+</div>
+
 4. Into the first column, drag a **Text** element from the **Toolbox**, label it *Tools Database*.
-5. Into the second column drag a **Text** element, label it *View, Edit and Add Tools*.
-6. Drag an **Action button** into the third column.
-7. **Future step** - WHEN YOUR PAGES ARE BUILT – Double-click the button in your **Home_Web_page**. In the pop-up:
+
+<div style="border: 1px solid black; padding: 10px; display: inline-block; width: fit-content;">
+  <img src="https://github.com/TGA-Stock/Hardware-Store-Inventory-App/blob/main/Images/4.2vi%20Text%20element.png" alt="Example Image" width="300">
+</div>
+
+6. Into the second column drag a **Text** element, label it *View, Edit and Add Tools*.
+7. Drag an **Action button** into the third column.
+8. **Future step** - WHEN YOUR PAGES ARE BUILT – Double-click the button in your **Home_Web_page**. In the pop-up:
    a. Under **General>Icon** - select **Chevron-right**.
    b. Under **Events>On** click on **Select>Show a page**.
    c. Under **Events>Page** - Select **List_Tools**.
    d. Click **OK**
- 
+
+<div style="border: 1px solid black; padding: 10px; display: inline-block; width: fit-content;">
+  <img src="https://github.com/TGA-Stock/Hardware-Store-Inventory-App/blob/main/Images/4.2vii%20Button%20edit.png" alt="Example Image" width="300">
+</div>
 ---
 
 ### 4.3 Creating two additional pages  
