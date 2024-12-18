@@ -68,11 +68,7 @@ Open the Mendix local application and act on the following instructions.
 2. Click on **MyfirstModule** and then **Domain model**.
 
 <div style="border: 100px solid black; padding: 100px; display: inline-block; width: fit-content;">
-  <img src="https://github.com/TGA-Stock/Hardware-Store-Inventory-App/blob/main/Images/4.1i%20App%20Explorer.png" alt="Example Image" width="300">
-</div>
-
-<div style="border: 5px solid black; padding: 10px; display: inline-block; width: fit-content;">
-  <img src="https://github.com/TGA-Stock/Hardware-Store-Inventory-App/main/Images/4.1%20App%20Explorer%20i.png" alt="Example Image" style="max-width: 100%; display: block; height: auto;">
+  <img src="https://github.com/TGA-Stock/Hardware-Store-Inventory-App/blob/main/Images/4.1%20App%20Explorer%20i.png" alt="Example Image" width="300">
 </div>
 
 https://raw.githubusercontent.com/TGA-Stock/Hardware-Store-Inventory-App/main/Images/4.1%20App%20Explorer%20i.png
