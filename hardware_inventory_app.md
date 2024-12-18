@@ -67,11 +67,9 @@ Open the Mendix local application and act on the following instructions.
 1. Open the **App Explorer**, located at the top of the left panel.
 2. Click on **MyfirstModule** and then **Domain model**.
 
-<div style="border: 100px solid black; padding: 100px; display: inline-block; width: fit-content;">
+<div style="border: 1px solid black; padding: 10px; display: inline-block; width: fit-content;">
   <img src="https://github.com/TGA-Stock/Hardware-Store-Inventory-App/blob/main/Images/4.1%20App%20Explorer%20i.png" alt="Example Image" width="300">
 </div>
-
-https://raw.githubusercontent.com/TGA-Stock/Hardware-Store-Inventory-App/main/Images/4.1%20App%20Explorer%20i.png
 
 4. Click on the **Toolbox**, located at the top of right panel of the screen.
 5. Drag an **Entity** element into the editor.
