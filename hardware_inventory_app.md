@@ -340,12 +340,24 @@ Once you are happy with your build you can start testing your application.
 
 >**Note:** Your application will only run when there is no error message located in the bottom panel, under the editor.
 
+<div style="border: 1px solid black; padding: 10px; display: inline-block; width: fit-content;">
+  <img src="https://github.com/TGA-Stock/Hardware-Store-Inventory-App/blob/main/Images/4.8i%20Testing%20and%20Publishing1.png" alt="Example Image" width="300">
+</div>
+
 Most errors are likely associated to linking issues between pages, entities and buttons. Look carefully at the error, if one appears, and try to locate the issue and address.
 
 To run your new application:
 1. Click on the green **Run locally** chevron on the right side of the **Control bar**, to run the application locally.
 
+<div style="border: 1px solid black; padding: 10px; display: inline-block; width: fit-content;">
+  <img src="https://github.com/TGA-Stock/Hardware-Store-Inventory-App/blob/main/Images/4.8ii%20Testing%20and%20Publishing2.png" alt="Example Image" width="300">
+</div>
+
 To publish your new application:
 1. Once you are happy with your application, click on the **Publish** button in the **Control panel**. The application will be sent to your personal web environmentwhere the rest of your team can download, review and edit where necessary.
+
+<div style="border: 1px solid black; padding: 10px; display: inline-block; width: fit-content;">
+  <img src="https://github.com/TGA-Stock/Hardware-Store-Inventory-App/blob/main/Images/4.8ii%20Testing%20and%20Publishing2.png" alt="Example Image" width="300">
+</div>
 
 Iterate and improve your application as necessary.
