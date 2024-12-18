@@ -98,11 +98,26 @@ Open the Mendix local application and act on the following instructions.
 
 #### 4.2.1 Adding an image to your home page  
 1. Click on **Images** under **MyFirstModule** in the **App Explorer**.
+
+<div style="border: 1px solid black; padding: 10px; display: inline-block; width: fit-content;">
+  <img src="https://github.com/TGA-Stock/Hardware-Store-Inventory-App/blob/main/Images/4.2i%20Add%20Image.png" alt="Example Image" width="300">
+</div>
+
 2. Click **Add** and add a jpg image that reflects your application (Size 1920x600approx.).  
 3. Click on **Home_Web** under **MyFirstModule** in the **App Explorer**. 
 4. Type *image* in the **Widget** search field, under **Toolbox** in the left panel.
+
+<div style="border: 1px solid black; padding: 10px; display: inline-block; width: fit-content;">
+  <img src="https://github.com/TGA-Stock/Hardware-Store-Inventory-App/blob/main/Images/4.2ii%20Drag%20image%20element.png" alt="Example Image" width="300">
+</div>
+
 5. Drag a **Static Image** into the editor, an image pop-up will appear.
 6. In the image pop-up search for your image and click on **Select**.
+
+<div style="border: 1px solid black; padding: 10px; display: inline-block; width: fit-content;">
+  <img src="https://github.com/TGA-Stock/Hardware-Store-Inventory-App/blob/main/Images/4.2iii%20Select%20Image.png" alt="Example Image" width="300">
+</div>
+
 7. Upload your image and click **OK**.
 
 #### 4.2.2 Adding text and an action button to your home page  
