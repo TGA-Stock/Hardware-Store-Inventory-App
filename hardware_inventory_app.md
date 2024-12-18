@@ -195,6 +195,11 @@ You should see something that looks like the following image.
 9. Double-click on the highlighted **New** button at the top of the grid.
 10. Change caption to *Add tool*.
 11. Under **Data source** select the **Tools** entity.
+
+<div style="border: 1px solid black; padding: 10px; display: inline-block; width: fit-content;">
+  <img src="https://github.com/TGA-Stock/Hardware-Store-Inventory-App/blob/main/Images/4.4v%20Element%20grid5.png" alt="Example Image" width="300">
+</div>
+
 12. **Future step** - WHEN 2nd PAGE Tools_Input is created, return to this button and under **Page** select **Tool_Input**.
 13. Click **OK**.
 
@@ -205,9 +210,24 @@ The coding behind the Edit button should now automatically populate.
 2. Click **Add page** and select **Forms** located in the left side panel, then **Form Vertical**.
 3. In the **Navigation layout** field, select **PopupLayout (Atlas _Core)**.
 4. Click **OK**.
+
+<div style="border: 1px solid black; padding: 10px; display: inline-block; width: fit-content;">
+  <img src="https://github.com/TGA-Stock/Hardware-Store-Inventory-App/blob/main/Images/4.4vi%20Popup%20page1.png" alt="Example Image" width="300">
+</div>
+
 5. In the **App Explorer**, rename the page to “Tools_Input”.
 6. Click the form field just right of the **Cancel** tab, then, Double-click on the blue **Data View** tab located at the top of the form.
+
+<div style="border: 1px solid black; padding: 10px; display: inline-block; width: fit-content;">
+  <img src="https://github.com/TGA-Stock/Hardware-Store-Inventory-App/blob/main/Images/4.4vii%20Popup%20Page2.png" alt="Example Image" width="300">
+</div>
+
 7. In the pop-up, under **Data source**, click the **Select...** button beside **Entity path**, then select **Tools**.
+
+<div style="border: 1px solid black; padding: 10px; display: inline-block; width: fit-content;">
+  <img src="https://github.com/TGA-Stock/Hardware-Store-Inventory-App/blob/main/Images/4.4viii%20Popup%20page3.png" alt="Example Image" width="300">
+</div>
+
 8. Click **OK**.
 9. A pop-up appears, click **Yes** for automatic content fill.
 10. At the top of this new pop-up page, delete the content of the title field, and replace it with *Tools_Input*. Click **OK**.
