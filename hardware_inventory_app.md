@@ -186,6 +186,10 @@ Open the Mendix local application and act on the following instructions.
 
 You should see something that looks like the following image.
 
+<div style="border: 1px solid black; padding: 10px; display: inline-block; width: fit-content;">
+  <img src="https://github.com/TGA-Stock/Hardware-Store-Inventory-App/blob/main/Images/Grid1.png" alt="Example Image" width="300">
+</div>
+
 > **Note:** The columns on your grid automatically populate because of the grid’s link to the **Tools** entity.
 
 9. Double-click on the highlighted **New** button at the top of the grid.
