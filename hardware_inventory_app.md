@@ -161,9 +161,28 @@ Open the Mendix local application and act on the following instructions.
 3. In the **Page name** field, label the page *List_Tools*.
 4. Click **OK**.
 5. Drag into the column shown in the editor, a **Data grid** element, found under **Widgets**, in the **Toolbox**.
+
+<div style="border: 1px solid black; padding: 10px; display: inline-block; width: fit-content;">
+  <img src="https://github.com/TGA-Stock/Hardware-Store-Inventory-App/blob/main/Images/4.3i%20Grid%20Element.png" alt="Example Image" width="300">
+</div>
+
 6. Double-click on the blue **No Data source** tab situated at the top of the grid element.
+
+<div style="border: 1px solid black; padding: 10px; display: inline-block; width: fit-content;">
+  <img src="https://github.com/TGA-Stock/Hardware-Store-Inventory-App/blob/main/Images/4.3ii%20Grid%20Element2.png" alt="Example Image" width="300">
+</div>
+
 7. Click on the **Data source** tab, click **Select**... by the **Entity (path)**, then select **Tools**.
+
+<div style="border: 1px solid black; padding: 10px; display: inline-block; width: fit-content;">
+  <img src="https://github.com/TGA-Stock/Hardware-Store-Inventory-App/blob/main/Images/4.4iii%20Grid%20Element3.png" alt="Example Image" width="300">
+</div>
+
 8. Click **OK**, then select **Yes** in the pop-up asking for you to automatically fill the grid.
+
+<div style="border: 1px solid black; padding: 10px; display: inline-block; width: fit-content;">
+  <img src="https://github.com/TGA-Stock/Hardware-Store-Inventory-App/blob/main/Images/4.4iv%20Element%20Grid4.png" alt="Example Image" width="300">
+</div>
 
 You should see something that looks like the following image.
 
