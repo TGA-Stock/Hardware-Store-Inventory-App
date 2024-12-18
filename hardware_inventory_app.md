@@ -72,6 +72,11 @@ Open the Mendix local application and act on the following instructions.
 </div>
 
 3. Click on the **Toolbox**, located at the top of right panel of the screen.
+
+<div style="border: 1px solid black; padding: 10px; display: inline-block; width: fit-content;">
+  <img src="https://github.com/TGA-Stock/Hardware-Store-Inventory-App/blob/main/Images/4.1ii%20Toolbox.png" alt="Example Image" width="300">
+</div>
+
 4. Drag an **Entity** element into the editor.
 5. Double-click on the entity element, and name your entity *Tools*.
 6. Select the **Attributes** tab, and add five **New** attributes:  
