@@ -26,7 +26,7 @@ The detailed requirements for the new application include:
 Before starting, make sure you have completed the following prerequisites:  
 
 - Create your free [Mendix account](https://signup.mendix.com/index.html)
-- Download and install Mendix Studio Pro  
+- [Download](https://marketplace.mendix.com/link/studiopro) and [install](https://docs.mendix.com/refguide/install/) Mendix Studio Pro  
    - System requirements  
 
 ### Additional documents you might find helpful  
