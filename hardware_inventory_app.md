@@ -71,16 +71,16 @@ Open the Mendix local application and act on the following instructions.
   <img src="https://github.com/TGA-Stock/Hardware-Store-Inventory-App/blob/main/Images/4.1%20App%20Explorer%20i.png" alt="Example Image" width="300">
 </div>
 
-4. Click on the **Toolbox**, located at the top of right panel of the screen.
-5. Drag an **Entity** element into the editor.
-6. Double-click on the entity element, and name your entity *Tools*.
-7. Select the **Attributes** tab, and add five **New** attributes:  
+3. Click on the **Toolbox**, located at the top of right panel of the screen.
+4. Drag an **Entity** element into the editor.
+5. Double-click on the entity element, and name your entity *Tools*.
+6. Select the **Attributes** tab, and add five **New** attributes:  
    - **Name** - Type: String  
    - **Model** - Type: String  
    - **Quantity** - Type: Long  
    - **Depo** - Type: String  
    - **Code** - Type: String  
-8. Click “OK”. 
+7. Click “OK”. 
 
 ---
 
