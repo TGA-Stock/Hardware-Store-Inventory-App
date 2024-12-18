@@ -40,8 +40,6 @@ If you are having troubles, please refer to the **Troubleshooting** section of t
 ---
 
 ## 3 Building a stock inventory application  
- 
-**Important Note:** It is good practice to save your application frequently.
 
 These are the steps you will take to create your application:
 - Create and configure a domain model (Data Structure).
@@ -57,7 +55,7 @@ These are the steps you will take to create your application:
 - Change some simple style elements.
 - Test and publish your application.
 
-**Important Note**: It is good practice to save and run your local application frequently.
+> **Important Note:** It is good practice to save and run your local application frequently.
 ---
 
 ## 4 Procedure  
@@ -121,7 +119,7 @@ Open the Mendix local application and act on the following instructions.
 
 You should see something that looks like the following image.
 
-**Note:** The columns on your grid automatically populate because of the grid’s link to the **Tools** entity.
+> **Note:** The columns on your grid automatically populate because of the grid’s link to the **Tools** entity.
 
 9. Double-click on the highlighted **New** button at the top of the grid.
 10. Change caption to *Add tool*.
@@ -143,7 +141,7 @@ The coding behind the Edit button should now automatically populate.
 9. A pop-up appears, click **Yes** for automatic content fill.
 10. At the top of this new pop-up page, delete the content of the title field, and replace it with *Tools_Input*. Click **OK**.
 
-**Note** - Don't forget to open the **List_Tools** page and open the **Add tool** button. Under **Page**, select **Tools_Input**. Click **OK**.
+> **Note:** Don't forget to open the **List_Tools** page and open the **Add tool** button. Under **Page**, select **Tools_Input**. Click **OK**.
 
 The **Tools_Input** page should look like the following image.
 
@@ -168,7 +166,7 @@ The **Tools_Input** page should look like the following image.
 ---
 
 ### 4.5 Adding German and French versions to your application
-**Note** - This task should be taken when all previous tasks are complete. Translations can be done by language expert or GenAI tool. Once complete, make sure translations are reviewed by a native speaker where possible.
+> **Note** This task should be taken when all previous tasks are complete. Translations can be done by language expert or GenAI tool. Once complete, make sure translations are reviewed by a native speaker where possible.
 
 1. Open the **Language** tab in the **Control bar**.
 2. Click on **Language Settings**.
@@ -195,7 +193,7 @@ This task should be carried out by someone with basic CSS knowledge, as a mistak
 
 Once you are happy with your build you can start testing your application.
 
-**Note** - Your application will only run when there is no error message located in the bottom panel, under the editor.
+>**Note:** Your application will only run when there is no error message located in the bottom panel, under the editor.
 
 Most errors are likely associated to linking issues between pages, entities and buttons. Look carefully at the error, if one appears, and try to locate the issue and address.
 
