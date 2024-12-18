@@ -275,11 +275,41 @@ The **Tools_Input** page should look like the following image.
 
 1. Open the **Language** tab in the **Control bar**.
 2. Click on **Language Settings**.
+
+<div style="border: 1px solid black; padding: 10px; display: inline-block; width: fit-content;">
+  <img src="https://github.com/TGA-Stock/Hardware-Store-Inventory-App/blob/main/Images/4.6i%20Languages1.png" alt="Example Image" width="300">
+</div>
+
 3. Click on **Add** button and select **German**, and then do the same for the Dutch language. Click **OK**. 
+
+<div style="border: 1px solid black; padding: 10px; display: inline-block; width: fit-content;">
+  <img src="https://github.com/TGA-Stock/Hardware-Store-Inventory-App/blob/main/Images/4.6ii%20Languages2.png" alt="Example Image" width="300">
+</div>
+
 4. Select **Language** in the **Control bar**, then click on **Batch translate**.
+
+<div style="border: 1px solid black; padding: 10px; display: inline-block; width: fit-content;">
+  <img src="https://github.com/TGA-Stock/Hardware-Store-Inventory-App/blob/main/Images/4.6iii%20Languages3.png" alt="Example Image" width="300">
+</div>
+
 5. Select German as the destination language in the pop-up that appears. Click **OK**.
+
+<div style="border: 1px solid black; padding: 10px; display: inline-block; width: fit-content;">
+  <img src="https://github.com/TGA-Stock/Hardware-Store-Inventory-App/blob/main/Images/4.6iv%20Languages4.png" alt="Example Image" width="300">
+</div>
+
 6. In the search field type a text element found in your Stock Inventory App. For example, *Search*.
+
+<div style="border: 1px solid black; padding: 10px; display: inline-block; width: fit-content;">
+  <img src="https://github.com/TGA-Stock/Hardware-Store-Inventory-App/blob/main/Images/4.6v%20Languages5.png" alt="Example Image" width="300">
+</div>
+
 7. In the **language grid**, double click the row that sees an empty **# field**, and populate it with the German translation of the word Search.
+
+<div style="border: 1px solid black; padding: 10px; display: inline-block; width: fit-content;">
+  <img src="https://github.com/TGA-Stock/Hardware-Store-Inventory-App/blob/main/Images/4.6v%20Languages5.png" alt="Example Image" width="300">
+</div>
+
 8. Go through each of your App pages plus pop-ups and find all the text pieces and list them down on a spreadsheet, piece of paper or to memory.
 9. In the **Batch translate field**, add the German translations beside each English text field found in your App.
 10. Repeat the exercise for the Dutch language.
@@ -291,7 +321,17 @@ This task should be carried out by someone with basic CSS knowledge, as a mistak
 1. Open the **App explorer** and click on the **App “name of app”** option.
 2. Click on **Styling** then **web**.
 3. Open the **Custome variables.scss** code.
+
+<div style="border: 1px solid black; padding: 10px; display: inline-block; width: fit-content;">
+  <img src="https://github.com/TGA-Stock/Hardware-Store-Inventory-App/blob/main/Images/4.7i%20CSSi.png" alt="Example Image" width="300">
+</div>
+
 4. Identify the style code you wish to address in the editor.
+
+<div style="border: 1px solid black; padding: 10px; display: inline-block; width: fit-content;">
+  <img src="https://github.com/TGA-Stock/Hardware-Store-Inventory-App/blob/main/Images/4.7ii%20CSSii.png" alt="Example Image" width="300">
+</div>
+
 5. Edit code, and then leave the page.
 
 ### 4.7 Testing and publishing your application  
