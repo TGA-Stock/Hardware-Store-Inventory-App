@@ -71,13 +71,11 @@ Open the Mendix local application and act on the following instructions.
   <img src="https://github.com/TGA-Stock/Hardware-Store-Inventory-App/blob/main/Images/4.1i%20App%20Explorer.png" alt="Example Image" width="300">
 </div>
 
-<div style="border: 1px solid black; padding: 10px; display: inline-block;">
-  <img src="https://raw.githubusercontent.com/TGA-Stock/Hardware-Store-Inventory-App/refs/heads/main/Images/4.1i%20App%20Explorer.png?token=GHSAT0AAAAAAC35EMAUT3HJDSKHPCFKSWY4Z3DES5Q" alt="Example Image" style="display: block;" width="300">
+<div style="border: 5px solid black; padding: 10px; display: inline-block; width: fit-content;">
+  <img src="https://github.com/TGA-Stock/Hardware-Store-Inventory-App/main/Images/4.1%20App%20Explorer%20i.png" alt="Example Image" style="max-width: 100%; display: block; height: auto;">
 </div>
 
-<div style="border: 5px solid black; padding: 10px; display: inline-block; width: fit-content;">
-  <img src="https://raw.githubusercontent.com/TGA-Stock/Hardware-Store-Inventory-App/main/Images/4.1%20App%20Explorer%20i.png" alt="Example Image" style="max-width: 100%; display: block; height: auto;">
-</div>
+https://raw.githubusercontent.com/TGA-Stock/Hardware-Store-Inventory-App/main/Images/4.1%20App%20Explorer%20i.png
 
 4. Click on the **Toolbox**, located at the top of right panel of the screen.
 5. Drag an **Entity** element into the editor.
