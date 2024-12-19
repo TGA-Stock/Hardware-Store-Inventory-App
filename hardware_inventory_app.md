@@ -23,7 +23,7 @@ The detailed requirements for the new application include:
 ---
 
 ## 2 Prerequisites  
-Before starting, make sure you have completed the following prerequisites:  
+Before starting, make sure you have addressed the following prerequisites:  
 
 - Create your free [Mendix account](https://signup.mendix.com/index.html)
 - [Download](https://marketplace.mendix.com/link/studiopro) and [Install](https://docs.mendix.com/refguide/install/) Mendix Studio Pro  
