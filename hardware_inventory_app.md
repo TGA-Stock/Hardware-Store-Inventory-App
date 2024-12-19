@@ -59,7 +59,7 @@ These are the steps you will take to create your application:
 ---
 
 ## 4 Procedure  
-To create the application, familiarity of the Mendix Studio Pro platform is useful. Look to this [Explore document](https://academy.mendix.com/link/modules/80/lectures/519/3.2-Explore-Mendix-Studio-Pro) to help you orientation around the application and basic tools.
+To create the application, familiarity of the Mendix Studio Pro platform is useful. Look to this [Explore document](https://academy.mendix.com/link/modules/80/lectures/519/3.2-Explore-Mendix-Studio-Pro) to help your orientation around the application and basic tools.
 
 Open the Mendix local application and act on the following instructions.
 
