@@ -354,7 +354,7 @@ To run your new application:
 </div>
 
 To publish your new application:
-1. Once you are happy with your application, click on the **Publish** button in the **Control panel**. The application will be sent to your personal web environmentwhere the rest of your team can download, review and edit where necessary.
+1. Once you are happy with your application, click on the **Publish** button in the **Control panel**. The application will be sent to your personal web environment where the rest of your team can download, review and edit if necessary.
 
 <div style="border: 1px solid black; padding: 10px; display: inline-block; width: fit-content;">
   <img src="https://github.com/TGA-Stock/Hardware-Store-Inventory-App/blob/main/Images/4.8ii%20Testing%20and%20Publishing2.png" alt="Example Image" width="300">
