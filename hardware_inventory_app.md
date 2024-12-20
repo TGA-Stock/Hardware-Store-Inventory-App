@@ -266,7 +266,10 @@ The **Tools_Input** page should look like the following image.
 8. Select **single**.
 9. Double click on the Information element.
 10. In the **Template** field write *Tool saved successfully*.
-11. Click **OK**. 
+11. Click **OK**.
+12. Open the tools_Input page, double-click on the save button.
+13. Under **Events**, open the **On-click** field and select **Call a microflow**.
+14. Click **OK**. 
 
 ---
 
