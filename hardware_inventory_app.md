@@ -269,7 +269,8 @@ The **Tools_Input** page should look like the following image.
 11. Click **OK**.
 12. Open the tools_Input page, double-click on the save button.
 13. Under **Events**, open the **On-click** field and select **Call a microflow**.
-14. Click **OK**. 
+14. In the Microflow field, click on **Select** and select **Success_Microflow**
+15. Click **OK**.
 
 ---
 
